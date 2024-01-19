@@ -4,7 +4,12 @@ Exercises
 
 //-----------------------
 
-bst circural events fib fromlast levelwidth
+bst 
+circural 
+events 
+fib 
+fromlast 
+levelwidth
 
 //-----------------------
 
