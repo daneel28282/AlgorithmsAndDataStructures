@@ -4,8 +4,8 @@ Exercises
 
 //-----------------------
 
-bst 
-circural 
+// bst 
+// circural 
 events 
 fib 
 fromlast 
